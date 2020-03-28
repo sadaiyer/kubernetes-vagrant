@@ -4,11 +4,11 @@ Note: You must have VirtualBox and Vagrant configured at this point
 
 Download this github repository and cd into the vagrant folder
 
-`git clone https://github.com/mmumshad/kubernetes-the-hard-way.git`
+`git clone https://github.com/sadaiyer/kubernetes-vagrant.git`
 
 CD into vagrant directory
 
-`cd kubernetes-the-hard-way\vagrant`
+`cd kubernetes-vagrant\vagrant`
 
 Run Vagrant up
 
